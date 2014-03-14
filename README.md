@@ -9,11 +9,11 @@ Major TODOs
 
 ### Setup ###
 
-Need to actually get this running.
+Need to actually get this running. http://piwik.org/docs/installation/
 
-### End to End HTTP ###
+### Secure ###
 
-This user data isn't entirely secure if its not proteced in transit.
+http://piwik.org/docs/how-to-secure-piwik/
 
 
 Library
